@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Open-Source Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio]([https://github.com/mohidsanori](https://mohid-ahmed.netlify.app/))**
+- 👨‍💻 All of my projects are available at **[My Portfolio]([https://mohid-ahmed.netlify.app])**
 
 - 📫 How to reach me **mohidahmed555@gmail.com**
 
